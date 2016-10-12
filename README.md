@@ -1,6 +1,6 @@
 # Diceware
 
-**TODO: Add description**
+A command-line interface to creating passwords based on the [diceware](http://www.diceware.com) method.
 
 ## Installation
 
@@ -21,4 +21,3 @@ If [available in Hex](https://hex.pm/docs/publish), the package can be installed
       [applications: [:diceware]]
     end
     ```
-
