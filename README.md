@@ -21,3 +21,7 @@ If [available in Hex](https://hex.pm/docs/publish), the package can be installed
       [applications: [:diceware]]
     end
     ```
+## Reference
+
+* [Diceware]()
+* [EFF Wordlists](https://www.eff.org/deeplinks/2016/07/new-wordlists-random-passphrases)
